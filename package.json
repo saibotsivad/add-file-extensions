@@ -1,10 +1,13 @@
 {
   "name": "add-file-extensions",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Add some file extensions to a bunch of files.",
   "main": "index.js",
   "scripts": {
     "test": "tape test/*.js"
+  },
+  "bin": {
+    "add-file-extensions": "bin.js"
   },
   "repository": {
     "type": "git",

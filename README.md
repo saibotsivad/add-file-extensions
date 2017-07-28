@@ -1,5 +1,7 @@
 # add-file-extensions
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/saibotsivad/add-file-extensions.svg)](https://greenkeeper.io/)
+
 Add some file extensions to a bunch of files.
 
 ## use
